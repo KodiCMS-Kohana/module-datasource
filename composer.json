@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/datasource",
+	"name":        "kodicms_kohana/datasource",
 	"type":        "kodicms-module",
 	"description": "The official KodiCMS dashboard module",
 	"homepage":    "http://www.kodicms.ru/",
